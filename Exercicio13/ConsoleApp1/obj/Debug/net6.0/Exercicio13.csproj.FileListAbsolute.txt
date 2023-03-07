@@ -1,0 +1,15 @@
+C:\Users\walef\Desktop\Nova pasta (5)\Aula Programação orientada a objetos 1\Exercicio C#\Lista 002\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Exercicio13.exe
+C:\Users\walef\Desktop\Nova pasta (5)\Aula Programação orientada a objetos 1\Exercicio C#\Lista 002\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Exercicio13.deps.json
+C:\Users\walef\Desktop\Nova pasta (5)\Aula Programação orientada a objetos 1\Exercicio C#\Lista 002\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Exercicio13.runtimeconfig.json
+C:\Users\walef\Desktop\Nova pasta (5)\Aula Programação orientada a objetos 1\Exercicio C#\Lista 002\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Exercicio13.dll
+C:\Users\walef\Desktop\Nova pasta (5)\Aula Programação orientada a objetos 1\Exercicio C#\Lista 002\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Exercicio13.pdb
+C:\Users\walef\Desktop\Nova pasta (5)\Aula Programação orientada a objetos 1\Exercicio C#\Lista 002\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Exercicio13.csproj.AssemblyReference.cache
+C:\Users\walef\Desktop\Nova pasta (5)\Aula Programação orientada a objetos 1\Exercicio C#\Lista 002\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Exercicio13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walef\Desktop\Nova pasta (5)\Aula Programação orientada a objetos 1\Exercicio C#\Lista 002\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Exercicio13.AssemblyInfoInputs.cache
+C:\Users\walef\Desktop\Nova pasta (5)\Aula Programação orientada a objetos 1\Exercicio C#\Lista 002\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Exercicio13.AssemblyInfo.cs
+C:\Users\walef\Desktop\Nova pasta (5)\Aula Programação orientada a objetos 1\Exercicio C#\Lista 002\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Exercicio13.csproj.CoreCompileInputs.cache
+C:\Users\walef\Desktop\Nova pasta (5)\Aula Programação orientada a objetos 1\Exercicio C#\Lista 002\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Exercicio13.dll
+C:\Users\walef\Desktop\Nova pasta (5)\Aula Programação orientada a objetos 1\Exercicio C#\Lista 002\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\Exercicio13.dll
+C:\Users\walef\Desktop\Nova pasta (5)\Aula Programação orientada a objetos 1\Exercicio C#\Lista 002\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Exercicio13.pdb
+C:\Users\walef\Desktop\Nova pasta (5)\Aula Programação orientada a objetos 1\Exercicio C#\Lista 002\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Exercicio13.genruntimeconfig.cache
+C:\Users\walef\Desktop\Nova pasta (5)\Aula Programação orientada a objetos 1\Exercicio C#\Lista 002\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\Exercicio13.dll
